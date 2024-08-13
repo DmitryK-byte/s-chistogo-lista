@@ -166,13 +166,11 @@ footer {
     display: flex;
     flex-direction: column;
     width: 100%;
+    font-size: 20px;
+    font-weight: bold;
     gap: 6px;
 }
 
-.banner-title-dark {
-    font-size: 20px;
-    font-weight: bold;
-}
 
 .content-section-theme-bright>p,
 .content-section-theme-dark>p {
