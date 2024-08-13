@@ -131,8 +131,6 @@ footer {
     display: flex;
 }
 
-
-
 .cover>span:first-child {
     justify-content: left;
 }
@@ -144,14 +142,11 @@ footer {
 .cover>span {
     justify-content: center;
 }
-
 .intro {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
 }
-
-
 .title-publication {
     width: 60%;
     Line-height: 19.2px;
@@ -170,7 +165,6 @@ footer {
     font-weight: bold;
     gap: 6px;
 }
-
 
 .content-section-theme-bright>p,
 .content-section-theme-dark>p {
